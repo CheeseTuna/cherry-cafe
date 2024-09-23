@@ -15,11 +15,6 @@
   width: 80%;
 }
 
-.app__wrapper_info .custom__button {
-  background-color: #fff;
-  color: #f595c0;
-}
-
 @media screen and (min-width: 2000px) {
   .app__header-h1 {
     font-size: 180px;

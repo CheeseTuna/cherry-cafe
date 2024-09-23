@@ -23,6 +23,7 @@ import gericht from '../assets/gericht.png';
 import cherry from '../assets/cherry.png';
 import cherrylogo from '../assets/cherrylogo.png';
 
+// eslint-disable-next-line import/no-anonymous-default-export
 export default {
   bg,
   chef,

@@ -5,7 +5,6 @@
 .app__aboutus-overlay {
   position: absolute;
   inset: 0;
-  background-color: #f7c1d9;
 }
 
 .app__aboutus-overlay img {
@@ -51,11 +50,6 @@
 .app__aboutus-content_history p {
   margin: 2rem 0;
   color: #fff;
-}
-
-.app__wrapper_info .custom__button {
-  background-color: #fff;
-  color: #f595c0;
 }
 
 @media screen and (min-width: 2000px) {

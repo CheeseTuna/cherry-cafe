@@ -8,11 +8,16 @@
   position: absolute;
 }
 
-.app__footerOverlay-bg {
-  height: 25%;
-  background: url("./assets/footer.png");
-}
-
 .app__footerOverlay-img {
   height: 75%;
+}
+
+.app__footerOverlay-bg {
+  background: url("../../assets/footer.png"), rgba(18, 17, 18, 0.67);
+  background-position: center;
+  background-size: cover;
+  background-repeat: repeat;
+  background-attachment: fixed;
+
+  background-blend-mode: overlay;
 }

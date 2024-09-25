@@ -2,6 +2,7 @@ import React from 'react';
 
 import { AboutUs, Chef, FindUs, Footer, Gallery, Header, Intro, Laurels, SpecialMenu } from './container';
 import { Navbar } from './components';
+import ScrollToTop from './components/ScrollToTop/ScrollToTop';
 import './App.css';
 
 const App = () => (
@@ -16,6 +17,7 @@ const App = () => (
     <Gallery />
     <FindUs />
     <Footer />
+    <ScrollToTop />
   </div>
 );
 

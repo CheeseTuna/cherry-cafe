@@ -59,12 +59,12 @@ const cocktails = [
 const awards = [
   {
     imgUrl: images.award02,
-    title: 'Bib Gourmond',
+    title: 'Golden Bean',
     subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
   },
   {
     imgUrl: images.award01,
-    title: 'Rising Star',
+    title: 'Coffee Masters',
     subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
   },
   {
@@ -74,7 +74,7 @@ const awards = [
   },
   {
     imgUrl: images.award03,
-    title: 'Outstanding Chef',
+    title: 'Bakery World Cup',
     subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
   },
 ];

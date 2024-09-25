@@ -22,6 +22,7 @@ import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
 import cherry from '../assets/cherry.png';
 import cherrylogo from '../assets/cherrylogo.png';
+import footer from '../assets/footer.png';
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default {
@@ -49,4 +50,5 @@ export default {
   gericht,
   cherry,
   cherrylogo,
+  footer,
 };

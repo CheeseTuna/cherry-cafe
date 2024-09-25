@@ -12,7 +12,7 @@ const AboutUs = () => (
     </div>
     <div className="app__aboutus-content flex__center">
       <div className="app__aboutus-content_about">
-        <h1 className="headtext__cormorant" style={{ color: "white" }}>
+        <h1 className="headtext__cormorant" style={{ color: "#DCCA87" }}>
           About Us
         </h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
@@ -29,7 +29,7 @@ const AboutUs = () => (
         <img src={images.knife} alt="about-knife" />
       </div>
       <div className="app__aboutus-content_history">
-        <h1 className="headtext__cormorant" style={{ color: "white" }}>
+        <h1 className="headtext__cormorant" style={{ color: "#DCCA87" }}>
           Our History
         </h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
